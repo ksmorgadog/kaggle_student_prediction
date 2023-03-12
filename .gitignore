@@ -63,6 +63,7 @@ target/
 *.db
 *.rdb
 *.csv
+*.parquet
 # Pycharm
 .idea
 
